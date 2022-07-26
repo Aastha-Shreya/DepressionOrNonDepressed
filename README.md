@@ -1,0 +1,2 @@
+# DepressionOrNonDepressed
+From the posts and texts of a person we are trying to identify whether the person is Depressed. Using NLP(Natural Language Processing) project where we will do Word Embedding using Word2Vec, GloVe, FastText methods and Visualize those in 3d and 2d using t-SNE or PCA(Principle Component Analysis) then Using Stacking of different classification methods to make classification based on the higher prediction value.
